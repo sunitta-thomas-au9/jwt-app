@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import {Link} from 'react-router-dom';
 
-const burl="https://jwt-be-app.herokuapp.com/register";
+const burl="https://jwt-be-app.herokuapp.com/users/register";
 
 class RegisterComponent extends Component{
     constructor(){
